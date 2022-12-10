@@ -1,0 +1,47 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-image: url("https://user-images.githubusercontent.com/119074965/206853732-b47d71f8-3f34-4fa9-9a9e-38d053db73c0.jpg")  ;
+	background-size: cover;
+
+}
+
+.container{
+	
+	position: absolute;
+	color: whitesmoke;
+	top: 30%;
+	left: 40%;
+}
+
+.container h1{
+	font-style:200px ;
+	font-size: 50px;
+	border-bottom: 5px solid purple;
+	margin-bottom: 25px;
+}
+
+.box input{
+	background: none;
+	font-style: black;
+	border: none;
+	margin: 10px;
+	font-size: 33px;
+	border-bottom: 2px solid purple;
+	line-height: 6px;
+
+}
+
+.box i{
+	width: 25px;
+}
+.box button{
+	border-radius: 3px;
+	border-color: purple;
+	background: none;
+	font-size: 20px;
+	margin: 2px 20px;
+    border-radius: 10px;
+}
